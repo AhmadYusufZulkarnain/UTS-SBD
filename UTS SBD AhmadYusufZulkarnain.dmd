@@ -1,0 +1,25 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="UTS SBD AhmadYusufZulkarnain" id="EDA03766-516C-CD02-557D-E39E1F9DE083" version="3.5">
+<createdBy>LENOVO</createdBy>
+<createdTime>2026-10-16 06:55:48 UTC</createdTime>
+<ownerDesignName>UTS SBD AhmadYusufZulkarnain</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>EDA03766-516C-CD02-557D-E39E1F9DE083</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="9C266582-BF80-7B93-B7D6-EBEFB51BDF88">
+<designStoragePath>C:\UTS SBD Ahmad Yusuf Zulkarnain 1251420124</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="A047553E-92AC-D1B0-0DEB-73AD4FE88FA1">
+<designStoragePath>C:\UTS SBD Ahmad Yusuf Zulkarnain 1251420124</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="0544F22C-FB55-51A2-F3C6-20EFFBC6B17D">
+<designStoragePath>C:\UTS SBD Ahmad Yusuf Zulkarnain 1251420124</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="F8F1111C-BA25-8CB4-F13E-EB0EC1BA3A11">
+<designStoragePath>C:\UTS SBD Ahmad Yusuf Zulkarnain 1251420124</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="902E49E5-A50F-D32E-BFA1-452E0C85B343">
+<designStoragePath>C:\UTS SBD Ahmad Yusuf Zulkarnain 1251420124</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
